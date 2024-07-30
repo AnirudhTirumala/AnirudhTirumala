@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @AnirudhTirumala
-- 👀 I’m interested in ... coding
+- 👀 Passionate about learning new technologies and develop
+ing innovative solutions to real-world problems. Strong team
+ player with excellent communication and problem-solving
+ skills.
 - 🌱 I’m currently pursuing ... cse (B.tech)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail id:anirudhtirumala@gmail.com
-                         mobile number:6309279111
+                         mobile number:+916309279111
 
 <!---
 AnirudhTirumala/AnirudhTirumala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
