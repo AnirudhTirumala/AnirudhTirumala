@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnirudhTirumala
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... cse (b.tech)
+- 🌱 I’m currently pursuing ... cse (B.tech)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail id:anirudhtirumala@gmail.com
                          mobile number:6309279111
